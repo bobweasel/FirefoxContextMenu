@@ -15,9 +15,9 @@
                                            combined position with stop icon   */
 /* #context-stop,                     /* Navi: Stop icon (x) - 
                                            combined position with reload icon */
-/* #context-bookmarkpage,             /* Navi: Bookmark star icon             */
+#context-bookmarkpage,             /* Navi: Bookmark star icon             */
 /* #context-sep-navigation,         /************** Separator ***************/
-/* #context-savepage,               /* Save Page As...                      */
+#context-savepage,               /* Save Page As...                      */
 /* #context-pocket,                 /* Save Page to Pocket                  */
 /* #context-selectall,              /* Select All                           */
 /* #context-sep-selectall,          /************** Separator ***************/
